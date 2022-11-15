@@ -39,4 +39,4 @@ Copy files with the cp command. The syntax is copy from-here to-there.
  `` $ notepad filename1.txt ``
 
   10.  Change permissions (chmod)
-  `` $ chmod +x myfile
+  `` $ chmod +x myfile ``
